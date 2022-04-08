@@ -1,9 +1,8 @@
 ### Hi there 👋, I am Ayush Sinha
 
-**Skills**: NodeJS, Express, Docker, Kubernetes, C++, JavaScript, Nginx, Git, AWS
+**Skills**: Golang, NodeJS, Express, Docker, Kubernetes, C++, JavaScript, Nginx, Git, AWS
 
-- 🔭 I’m currently working on **Competitive Coding** and **Kubernetes** 
-- 🌱 I’m currently learning **Golang** 
+- 🔭 I’m currently working on **Kubernetes** 
 - 📫 How to reach me: You can mail me at ayushsinha126@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ayush558/)
 </br>
 
