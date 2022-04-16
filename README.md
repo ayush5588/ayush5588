@@ -3,7 +3,7 @@
 **Skills**: Golang, NodeJS, Express, Docker, Kubernetes, C++, JavaScript, Nginx, Git, AWS
 
 - 🔭 I’m currently working on **Kubernetes** 
-- 📫 How to reach me: You can mail me at ayushsinha126@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ayush558/)
+- 📫 How to reach me: You can mail me at ayushsinha126@gmail.com
 </br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://projectstats.herokuapp.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg' alt='npm' height='40'>](https://www.npmjs.com/package/allmiddle)  
